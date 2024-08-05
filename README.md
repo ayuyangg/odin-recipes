@@ -1,0 +1,1 @@
+This project will consist of an index page that will link to a few recipes. I will have demonstrated the ability to link to other web pages as well as the ability to set up an index page.
